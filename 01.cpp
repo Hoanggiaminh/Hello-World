@@ -25,6 +25,6 @@ int main()
         b=c;
         c=tam;
     }
-    cout << a<<b<<c;
+    cout << c << b << a;
     return 0;
 }

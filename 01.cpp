@@ -25,6 +25,6 @@ int main()
         b=c;
         c=tam;
     }
-    cout << c << b << a;
+    cout << c;
     return 0;
 }
